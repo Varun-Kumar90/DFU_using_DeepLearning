@@ -31,10 +31,9 @@ Ulcer detected?
                 ↓
           Grade + Confidence + Clinical Summary
 
+```
 **Architecture**
 ![Architecture](assets/architecture.png)
-
-```
 ---
 
 ## Project structure
