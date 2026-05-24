@@ -48,9 +48,13 @@ DFU_using_DL/
 ├── app/
 │   └── streamlit_app.py        # Streamlit UI
 │
+├── notebook/
+│   ├── model_1.ipynb           # Stage 1 training notebook (TensorFlow model)
+│   └── model_2.ipynb           # Stage 2 training notebook (PyTorch grading model)
+│
 ├── models/
-│   ├── model_1.h5            # Stage 1: TensorFlow detection model
-│   └── model_2.pth # Stage 2: PyTorch grading model
+│   ├── model_1.h5              # Stage 1: TensorFlow detection model
+│   └── model_2.pth             # Stage 2: PyTorch grading model
 │
 ├── src/
 │   └── model_integration.py    # Two-stage pipeline logic
@@ -60,9 +64,10 @@ DFU_using_DL/
 │   ├── prediction.png
 │   └── architecture.png
 │
-├── requirements.txt
-├── README.md
-├── .gitignore
+├── requirements.txt            # Project dependencies
+├── README.md                   # Project documentation
+└── .gitignore
+
 ```
 
 ---
