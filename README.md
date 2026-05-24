@@ -32,6 +32,10 @@ Ulcer detected?
           Grade + Confidence + Clinical Summary
 
 ```
+<p align="center">
+  <img src="assets/architecture.png" width="900">
+</p>
+
 **Architecture**
 ![Architecture](assets/architecture.png)
 ---
@@ -67,8 +71,8 @@ DFU_using_DL/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/DFU-Analyzer.git
-cd DFU-Analyzer
+git clone https://github.com/yourusername/DFU_using_DL.git
+cd DFU_using_DL
 ```
 
 **2. Install dependencies**
