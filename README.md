@@ -30,6 +30,10 @@ Ulcer detected?
  "No ulcer"   Stage 2: Wagner Grading (model_2.pth)
                 ↓
           Grade + Confidence + Clinical Summary
+
+**Architecture**
+![Architecture](assets/architecture.png)
+
 ```
 ---
 
