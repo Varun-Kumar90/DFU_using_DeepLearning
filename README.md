@@ -32,12 +32,12 @@ Ulcer detected?
           Grade + Confidence + Clinical Summary
 
 ```
-<p align="center">
-  <img src="assets/architecture.png" width="900">
-</p>
 
 **Architecture**
-![Architecture](assets/architecture.png)
+<p align="center">
+  <img src="assets/architecture.png" width="500">
+</p>
+
 ---
 
 ## Project structure
